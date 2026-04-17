@@ -24,7 +24,7 @@ git checkout -b fix/issue-number
 
 ### 2. Development Workflow
 
-- **Pure Python changes**: Edit files directly and test with template files ([networkExtension_template.py](https://github.com/cvTHM/GEOppi/blob/main/networkExtension_template.py) and [networkModelling_template.py](https://github.com/cvTHM/GEOppi/blob/main/networkModelling_templatepy))
+- **Pure Python changes**: Edit files directly and test with template files ([networkExtension_example.py](https://github.com/cvTHM/GEOppi/blob/main/geoppi/examples/networkExtension_example.py) and [networkModelling_example.py](https://github.com/cvTHM/GEOppi/blob/main/geoppi/examples/networkModelling_example.py))
 - **Documentation**: Update docstrings, README, or documentation files if appliccable
 
 ### 3. Commit Your Changes
